@@ -1,2 +1,2 @@
-# projOne
+# hello-world
 First project
